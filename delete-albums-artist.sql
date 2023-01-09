@@ -1,0 +1,1 @@
+DELETE FROM albums where ArtistId >= 1 and ArtistId <= 22
